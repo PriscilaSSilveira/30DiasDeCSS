@@ -10,6 +10,7 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
  ## Objetivo
  
  *Melhorar minhas habilidades em CSS3 através da realização de projetos
+ 
  *Aprofundar meus conhecimentos em CSS3 🧠
  
  
@@ -24,6 +25,7 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 ##  Desafio dia 01 - Toggle Checkbox
 
 ![Dia 01](checkbox.webm)
+![ ](./checkbox.webm)
 
 
  👇🏼
