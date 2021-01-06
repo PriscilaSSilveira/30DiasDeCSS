@@ -25,10 +25,13 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 ##  Desafio dia 01 - Toggle Checkbox
 
 ![](Dia01/checkbox.gif)
-![ ](Dia 01/checkbox.gif)
-![ ](Dia01/checkbox.gif)
 
 
+
+##  Desafio dia 02 - Menu Lateral
+
+
+![](Dia02/menu.gif)
 
  👇🏼
 
