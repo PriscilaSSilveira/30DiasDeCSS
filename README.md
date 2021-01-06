@@ -24,8 +24,8 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 ##  Desafio dia 01 - Toggle Checkbox
 
-![](./Dia01/checkbox.gif)
-
+![](Dia 01/checkbox.gif)
+![ ](src/cores.jpeg)
 
 
 
