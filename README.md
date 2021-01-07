@@ -33,6 +33,15 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 ![](Dia02/menu.gif)
 
+
+
+
+##  Desafio dia 02 - Menu Lateral
+
+
+![](Dia03/loader.gif)
+
+
  👇🏼
 
 
