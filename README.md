@@ -28,7 +28,7 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 
 
-##  Desafio dia 02 - Menu Lateral
+##  Desafio dia 03 - Menu Lateral
 
 
 ![](Dia02/menu.gif)
@@ -36,7 +36,7 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 
 
-##  Desafio dia 02 - Menu Lateral
+##  Desafio dia 02 -  Loader animado
 
 
 ![](Dia03/loader.gif)
