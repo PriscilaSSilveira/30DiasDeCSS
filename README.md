@@ -3,7 +3,7 @@
 My name is Priscila Silveira 👩🏼‍🇧🇷
 
 - 📍 living in São Paulo
-- 💻 Student de Front-end  <Laboratória>💛 💻
+- 💻 Student Front-end  <Laboratória>💛 💻
 
 ### 30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diários utilizando HTML5 e CSS3 
 
@@ -25,12 +25,18 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 ##  Desafio dia 01 - Toggle Checkbox
 
 ![](Dia01/checkbox.gif)
-![ ](Dia 01/checkbox.gif)
-![ ](Dia01/checkbox.gif)
 
 
+
+##  Desafio dia 02 - Menu Lateral
+
+
+![](Dia02/menu.gif)
 
  👇🏼
 
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilassilveira/)](https://www.linkedin.com/in/priscilassilveira/)
+ 
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PriscilaSSilveira)](https://github.com/PriscilaSSilveira)
+ 
