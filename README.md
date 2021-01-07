@@ -17,7 +17,7 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 ## Regras
 
 * Realizar um projeto por dia
-* Compartilhar meu progresso nas mídias sociais (Linkedin etc.) usando a hashtag #30diasDeCSS
+* Compartilhar meu progresso nas mídias sociais (Linkedin etc.) usando a hashtag #30DiasDeCSS
 * O projeto deve ser concluído até 23:59
 
 
