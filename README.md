@@ -42,6 +42,14 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 ![](Dia03/loader.gif)
 
 
+
+##  Desafio dia 04 - Ícone menu hamburguer animado
+
+
+![](Dia02/menu.Hamburger.gif)
+
+
+
  👇🏼
 
 
