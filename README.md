@@ -1,4 +1,4 @@
-# 30diasDeCSS 👋
+# 30DiasDeCSS 👋
 
 My name is Priscila Silveira 👩🏼‍🇧🇷
 
@@ -17,7 +17,7 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 ## Regras
 
 * Realizar um projeto por dia
-* Compartilhar meu progresso nas mídias sociais (Linkedin etc.) usando a hashtag #30diasDeCSS
+* Compartilhar meu progresso nas mídias sociais (Linkedin etc.) usando a hashtag #30DiasDeCSS
 * O projeto deve ser concluído até 23:59
 
 
@@ -32,6 +32,15 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 
 ![](Dia02/menu.gif)
+
+
+
+
+##  Desafio dia 03 -  Loader animado
+
+
+![](Dia03/loader.gif)
+
 
  👇🏼
 
