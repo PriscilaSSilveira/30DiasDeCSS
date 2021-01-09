@@ -1,0 +1,49 @@
+body {
+background: #ffffff;
+height: 100%;
+}
+
+#menu {
+visibility: hidden;
+}
+
+label, label::before, label::after{
+position:absolute;
+width: 80px;
+height: 10px;
+background: rgb(13, 7, 51);
+transition: 0.5s;
+}
+
+label{
+  top: 50%;
+  left: 45%;
+  cursor: pointer;
+  }
+
+label::before {
+  content: "";
+transform: translateY(-25px);
+}
+
+label::after {
+  content: "";
+transform: translateY(25px);
+}
+
+#menu:checked + label {
+  width: 0px;
+}
+  
+#menu:checked + label::before {
+transform: rotate(40deg);
+background: rgb(161, 28, 18); 
+}
+
+#menu:checked + label::after {
+  background: rgb(161, 28, 18); 
+  transform: rotate(-40deg);
+  }
+  
+  
+  
