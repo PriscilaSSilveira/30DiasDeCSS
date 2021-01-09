@@ -42,10 +42,18 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 ![](Dia03/loader.gif)
 
 
+
+##  Desafio dia 04 - Ícone menu hamburguer animado
+
+
+![](Dia02/menuHamburger.gif)
+
+
+
  👇🏼
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilassilveira/)](https://www.linkedin.com/in/priscilassilveira/)
+ ##[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilassilveira/)](https://www.linkedin.com/in/priscilassilveira/)
  
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PriscilaSSilveira)](https://github.com/PriscilaSSilveira)
  
