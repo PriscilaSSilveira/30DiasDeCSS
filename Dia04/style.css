@@ -43,7 +43,7 @@ background: rgb(161, 28, 18);
 #menu:checked + label::after {
   background: rgb(161, 28, 18); 
   transform: rotate(-40deg);
-  }
+}
   
   
   
