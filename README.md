@@ -5,6 +5,16 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 - 📍 living in São Paulo
 - 💻 Student Front-end  <Laboratória>💛 💻
 
+
+
+ 👇🏼
+
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilassilveira/)](https://www.linkedin.com/in/priscilassilveira/)
+ 
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PriscilaSSilveira)](https://github.com/PriscilaSSilveira)
+ 
+
 ### 30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diários utilizando HTML5 e CSS3 
 
  ## Objetivo
@@ -56,11 +66,7 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 ![](Dia05/menuCircular.gif)
 
 
+##  Desafio dia 06 - Efeito neon piscando
 
- 👇🏼
 
-
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilassilveira/)](https://www.linkedin.com/in/priscilassilveira/)
- 
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PriscilaSSilveira)](https://github.com/PriscilaSSilveira)
- 
+![](Dia06/neonPiscando.gif)
