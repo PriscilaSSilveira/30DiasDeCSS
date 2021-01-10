@@ -1,0 +1,142 @@
+.checkbox {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  z-index: 2;
+  opacity: 0;
+}
+
+.container label {
+  align-items: center;
+  position: absolute;
+  width: 40px;
+  height: 5px;
+  display: block;
+  background: rgb(5, 6, 56);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  z-index: 1;
+}
+
+.container label::before,
+.container label::after {
+  position: absolute;
+  content: "";
+  width: 40px;
+  height: 5px;
+  z-index: 1;
+  background: rgb(5, 6, 56);
+}
+
+.container label::before {
+  top: 10px;
+  
+}
+
+.container label::after {
+  top: -10px;
+}
+
+.checkbox:hover + label,
+.checkbox:hover + label::before,
+.checkbox:hover + label::after {
+  transition: all 0.5s ease;
+}
+
+.itensMenu {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 50px;
+  height: 50px;
+  opacity: 0;
+  transition: all 0.5s;
+}
+
+.itensMenu a {
+  display: block;
+  text-decoration: none;
+
+}
+
+.itensMenu a:hover {
+  box-shadow:  -5px -5px 10px #00000073,
+5px 5px 10px rgba(0, 0, 0, 0.671);
+}
+
+.checkbox:checked + label::before,
+.checkbox:checked + label::after {
+  top: 0;
+  transform-origin: 50% 50%;
+    background: rgb(196, 17, 17)
+}
+
+.checkbox:checked + label::before {
+  transform: rotate(45deg);
+}
+
+.checkbox:checked + label::after {
+  transform: rotate(-45deg);
+}
+
+.checkbox:checked + label {
+  background: transparent;
+}
+
+.checkbox:checked ~ ul .itensMenu {
+  opacity: 1;
+}
+
+.checkbox:checked ~ ul .itensMenu:nth-child(1) {
+  transform: rotate(0) translateX(-110px);
+}
+
+.checkbox:checked ~ ul .itensMenu:nth-child(2) {
+  transform: rotate(70deg) translateX(-110px);
+}
+
+.checkbox:checked ~ ul .itensMenu:nth-child(3) {
+  transform: rotate(140deg) translateX(-110px);
+}
+
+.checkbox:checked ~ ul .itensMenu:nth-child(4) {
+  transform: rotate(210deg) translateX(-110px);
+}
+
+.checkbox:checked ~ ul .itensMenu:nth-child(5) {
+  transform: rotate(280deg) translateX(-110px);
+}
+
+.itensMenu:nth-child(1) a {
+  transform: rotate(0);
+}
+
+.itensMenu:nth-child(2) a {
+transform: rotate(-70deg);
+}
+
+.itensMenu:nth-child(3) a {
+  transform: rotate(-140deg);
+}
+
+.itensMenu:nth-child(4) a {
+  transform: rotate(-210deg);
+}
+
+.itensMenu:nth-child(5) a {
+  transform: rotate(-280deg);
+}
