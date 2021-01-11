@@ -76,4 +76,4 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 ##  Desafio dia 07 - Box 3D
 
 
-![](Dia06/box3D.gif)
+![](Dia07/box3D.gif)
