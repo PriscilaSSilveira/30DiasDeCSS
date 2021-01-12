@@ -1,0 +1,14 @@
+body {
+    background-color: #000000;
+  }
+  
+div {
+    font-family: 'Anton', sans-serif;
+    font-size: 150px;
+    margin: 150px;
+    color: transparent;
+    background-image: url("gif/pink.gif");
+    background-size: cover;
+    -webkit-background-clip: text;
+  }
+   
