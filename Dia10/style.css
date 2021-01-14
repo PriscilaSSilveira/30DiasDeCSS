@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  background: rgb(0, 0, 0);
+}
+
+.name {
+  border-right: 5px solid;
+  color: rgba(255, 255, 255, 0.75);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 50px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.name{
+  animation: blinkCursor 500ms steps(20) infinite,
+    name 4s steps(20) 1s normal both;
+}
+
+@keyframes name {
+  from {
+    width: 0;
+  }
+  to {
+   width: 600px;
+  }
+}
+
+@keyframes blinkCursor {
+  from {
+    border-right-color: rgba(180, 0, 0, 0.75);
+  }
+  to {
+    border-right-color: transparent;
+  }
+}
