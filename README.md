@@ -77,3 +77,10 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 
 ![](Dia07/box3D.gif)
+
+
+
+##  Desafio dia 08 - Background do texto animado
+
+
+![](Dia08/giphy.gif)
