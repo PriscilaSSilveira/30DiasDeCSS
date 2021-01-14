@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Kalam', cursive;
+    text-align: center;
+  }
+  
+  .alphabet{
+  color: rgb(255, 255, 255);
+  margin-top: -50px;
+  font-size: 100px;
+  }
+
+  .light li {
+    position: relative;
+    animation-iteration-count: infinite;
+    display: block;
+    width: 10px;
+    height: 25px;
+    border-radius: 100%;
+    margin: 20px;
+    display: inline-block;
+    background: #0af700;
+    box-shadow: 0px 10px 30px 5px #0af700;
+    animation-name: light1;
+    animation-duration: 2s;
+  }
+  .light li:nth-child(2n+1) {
+    background: #008ffc;
+    box-shadow: 0px 10px 30px 10px #008ffc;
+    animation-name: light2;
+    animation-duration: 0.4s;
+  }
+  .light li:nth-child(4n+2) {
+    background: #f700f7;
+    box-shadow: 0px 10px 30px 5px #f700ce;
+    animation-name: light3;
+    animation-duration: 1.1s;
+  }
+  .light li:nth-child(4n+1) {
+    background: #f7d513;
+    box-shadow: 0px 10px 30px 5px #f7d513;
+    animation-name: light4;
+    animation-duration: 1.3s;
+  }
+  .light li:nth-child(odd) {
+    animation-duration: 1.7s;
+  }
+  .light li:nth-child(3n+1) {
+    animation-duration: 1.4s;
+  }
+  .light li:after {
+    content: "";
+    top: -50px;
+    position: absolute;
+    width: 52px;
+    height: 80px;
+    border-bottom: solid #8f7e7e 3px;
+    border-radius: 100%;
+  }
+
+  .light li:first-child {
+    margin-left: -50px;
+  }
+  
+  @keyframes light1 {
+    0%, 100% {
+      background: #0af700;
+      box-shadow: 0px 5px 30px 5px #0af700;
+    }
+    50% {
+      background: rgba(10, 247, 0, 0.4);
+      box-shadow: 0px 5px 30px 5px rgba(10, 247, 0, 0.2);
+    }
+  }
+
+  @keyframes light2 {
+    0%, 100% {
+      background: #008ffc;
+      box-shadow: 0px 5px 30px 5px #008ffc;
+    }
+    50% {
+      background: rgba(95, 185, 255, 0.4);
+      box-shadow: 0px 5px 30px 5px rgba(95, 185, 255, 0.2);
+    }
+  }
+
+  @keyframes light3 {
+    0%, 100% {
+      background: #f700ce;
+      box-shadow: 0px 5px 30px 5px #f700ce;
+    }
+    50% {
+      background: rgba(87, 16, 81, 0.651);
+      box-shadow: 0px 5px 30px 5px rgba(87, 16, 81, 0.651);
+    }
+  }
+  
+  @keyframes light4 {
+    0%, 100% {
+      background: #f7d513;
+      box-shadow: 0px 5px 30px 5px #f7d513;
+    }
+    50% {
+      background: rgba(247, 213, 19, 0.4);
+      box-shadow: 0px 5px 30px 5px rgba(247, 213, 19, 0.4);
+    }
+  }
+  
+  
+  
+  
+  
