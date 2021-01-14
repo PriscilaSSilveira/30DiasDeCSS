@@ -90,3 +90,9 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 
 ![](Dia09/light.gif)
+
+
+##  Desafio dia 10 - Efeito Máquina de esquever
+
+
+![](Dia10/giphy.gif)
