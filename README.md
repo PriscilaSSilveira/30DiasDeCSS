@@ -101,3 +101,8 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 
 ![](Dia11/card.gif)
+
+##  Desafio dia 12 - icons com efeito
+
+
+![](Dia12/icons.gif)
