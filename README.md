@@ -100,4 +100,4 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 ##  Desafio dia 11 - Card com efeito hover
 
 
-![](Dia11/mandalorian.gif)
+![](Dia11/card.gif)
