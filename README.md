@@ -122,3 +122,8 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 ![](Dia15/texto.gif)
 
+
+##  Desafio dia 16 - Cards com Porcentagem de Ferramentas
+
+
+![](Dia16/porcentagem.gif)
