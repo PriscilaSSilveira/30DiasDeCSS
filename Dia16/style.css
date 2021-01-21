@@ -3,7 +3,7 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background:  linear-gradient(rgba(114, 194, 114, 0.74), rgb(142, 92, 189));
+  background:  rgb(61, 133, 97);
 }
 
 .container{
@@ -113,7 +113,7 @@ svg circle:nth-child(2){
 }
 
 .card:hover:nth-child(3) svg circle:nth-child(2){
-  stroke: #ff04f7;
+  stroke: #970d93;
 }
 
 .card:nth-child(4) svg circle:nth-child(2){
