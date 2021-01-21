@@ -1,0 +1,23 @@
+body{
+  padding: 4rem;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.name{  
+  color: rgb(255, 255, 255);
+  font-size: 7rem;
+  font-family: 'Concert One', cursive;
+  text-shadow:-3px 3px 0 rgb(168, 17, 17);
+}
+
+.name{
+  animation: zoom 7s ;  
+}
+
+@keyframes zoom{
+ 0%{
+    opacity: 0;
+    transform: scale(.1);
+  }
+}
