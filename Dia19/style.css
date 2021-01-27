@@ -1,0 +1,55 @@
+body {
+	align-items: center;
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	font-family: sans-serif;
+}
+
+.title {
+	margin: 20px 0 10px;
+}   
+
+.card {
+	background: rgb(255, 255, 255);
+	border-radius: 8px;
+	box-shadow: 0 20px 20px rgba(0, 0, 0, 0.63);
+	cursor: pointer;
+	height: 250px;
+	width: 250px;
+	margin: 10px;
+	padding: 0 10px;
+	position: relative;
+	text-align: center;
+	transition: height 1s;
+}
+
+.card.expanded {
+	height: 400px;
+}
+
+.label {
+	margin-top: 15px;
+	transform: translateY(10px);
+	transition: transform 1s;
+}
+.card.expanded .label {
+	transform: translateY(0);
+}
+
+.text1{
+	clip-path:polygon(0 100%);
+}
+
+.card.expanded .text1, .card.expanded .text2 {
+	clip-path: polygon(0% 100%,0% -10%,100% -10%,100% 100%)
+}
+
+.text-content {
+  transform: translateY(-160px);
+  transition: 1s;
+}
+
+.card.expanded .text-content {
+  transform: translateY(-15px);
+}
