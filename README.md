@@ -144,6 +144,12 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 ##  Desafio dia 19 - Cards que expande
 
 
-![](Dia18/icon.gif)
+![](Dia19/cards.gif)
+
+
+##  Desafio dia 19 - Carro com efeito que parece que esta andando
+
+
+![](Dia20/car.gif)
 
 
