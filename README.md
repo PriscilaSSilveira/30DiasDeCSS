@@ -152,18 +152,18 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 ![](Dia20/car.gif)
 
-##  Desafio dia 20 - Efeito Líquido
+##  Desafio dia 21 - Efeito Líquido
 
 
 ![](Dia21/aquario.gif)
 
-##  Desafio dia 21 - Card que se mexem com o efeito hover
+##  Desafio dia 22 - Card que se mexem com o efeito hover
 
 
 ![](Dia22/cards.gif)
 
 
-##  Desafio dia 21 - Background animado
+##  Desafio dia 23 - Background animado
 
 
 ![](Dia23/background.gif)
