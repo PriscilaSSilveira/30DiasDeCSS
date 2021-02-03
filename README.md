@@ -168,3 +168,8 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 ![](Dia23/background.gif)
 
+##  Desafio dia 24 - Modal
+
+
+![](Dia24/modal.gif)
+
