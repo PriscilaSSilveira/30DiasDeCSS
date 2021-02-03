@@ -3,7 +3,7 @@
 My name is Priscila Silveira 👩🏼‍🇧🇷
 
 - 📍 living in São Paulo
-- 💻 Student Front-end  <Laboratória>💛 💻
+- 💻 Front-end Student <Laboratória>💛 💻
 
 
 
