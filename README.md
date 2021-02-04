@@ -173,3 +173,8 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 ![](Dia24/modal.gif)
 
+##  Desafio dia 25 - Particulas flutuantes
+
+
+![](Dia25/particulas.gif)
+

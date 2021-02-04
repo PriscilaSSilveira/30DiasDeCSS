@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  background: black;
+  overflow: hidden;
+}
+
+.particulas{
+  position: relative;
+  min-width: 750px;
+  height: 750px;
+  margin: -150px;
+  transform-origin: right;
+  animation: cores 5s linear infinite;
+}
+
+@keyframes cores{
+  0%{
+    filter: hue-rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100%{
+    filter: hue-rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.particulas:nth-child(even){
+  transform-origin: left;
+}
+
+.particulas span{
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  bottom: 100px;
+  right: 100px;
+}
+
+.particulas span::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: -8px;
+    width: 15px;
+    height: 15px;
+    background: rgb(255, 255, 255);
+    border-radius: 50%;
+}
+
+.particulas span:nth-child(3n + 1)::before{
+  background:  rgb(255, 17, 215);
+  box-shadow: 0 0 20px rgb(255, 17, 215);
+}
+
+.particulas span:nth-child(3n + 2)::before{
+  background: rgb(115, 255, 0);
+  box-shadow: 0 0 20px rgba(134, 255, 0, 1);
+}
+
+.particulas span:nth-child(3n + 3)::before{
+  background: rgb(0, 255, 221);
+  box-shadow: 0 0 20px  rgb(0, 255, 221);
+}
+
+.particulas span:nth-child(3n + 1){
+  animation: animate 10s alternate infinite;
+}
+
+.particulas span:nth-child(3n +2 ){
+  animation: animate-reverse 3s alternate infinite;
+}
+
+.particulas span:nth-child(3n + 3){
+  animation: animate 8s alternate infinite;
+}
+
+@keyframes animate{
+  0%{
+    transform: rotate(0deg);
+  }
+  100%{
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes animate-reverse{
+  0%{
+    transform: rotate(360deg);
+  }
+  100%{
+    transform: rotate(0deg);
+  }
+}
