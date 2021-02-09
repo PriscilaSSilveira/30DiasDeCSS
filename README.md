@@ -183,4 +183,7 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 ![](Dia26/cards.gif)
 
+##  Desafio dia 27 - icons com efeito hover
 
+
+![](Dia27/icons.gif)
