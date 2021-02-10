@@ -188,7 +188,12 @@ My name is Priscila Silveira 👩🏼‍🇧🇷
 
 ![](Dia27/icons.gif)
 
-##  Desafio dia 28 - islider com CSS
+##  Desafio dia 28 - Slider com CSS
 
 
 ![](Dia28/slider.gif)
+
+##  Desafio dia 29 - Livro
+
+
+![](Dia29/livro.gif)
